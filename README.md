@@ -1,4 +1,5 @@
-Written Report 
-[FinalReport_WriteUp_Gipson.pdf](FinalReport_WriteUp_Gipson.pdf)
-Modeling Code
-[FinalReport_Code_Gipson.ipynb](FinalReport_Code_Gipson.ipynb)
+## Project Files
+
+[Report Writeup (PDF)](FinalReport_WriteUp_Gipson.pdf)
+
+[Report Code (IPYNB)](FinalReport_Code_Gipson.ipynb)
