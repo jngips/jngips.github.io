@@ -6,4 +6,4 @@
 
 [Report Data](https://www.oecd.org/en/about/programmes/talis.html#data)
 
-*TALIS does not allow sharing of data outside of individual site retrieval 
+*TALIS does not permit sharing of data outside of individual site retrieval 
